@@ -1,0 +1,136 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An Account of the Duke's bagnio and of the Duke's mineral bath and the new spaw of mineral drinking waters.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1683</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 8 KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A75262</idno>
+            <idno type="STC">Wing A283A</idno>
+            <idno type="STC">ESTC R204268</idno>
+            <idno type="EEBO-CITATION">43077436</idno>
+            <idno type="OCLC">ocm 43077436</idno>
+            <idno type="VID">151498</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A75262)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 151498)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2261:15)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An Account of the Duke's bagnio and of the Duke's mineral bath and the new spaw of mineral drinking waters.</title>
+               </titleStmt>
+               <extent>1 sheet ([2] p.)   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1683]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Date of publication suggested by Wing.</note>
+                  <note>Reproduction of original in: William Andrews Clark Memorial Library, University of California, Los Angeles, California.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Baths, Turkish --  Great Britain.</term>
+               <term>Broadsides --  London (England) --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-08</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2012-08</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:151498:1" rendition="simple:additions"/>
+            <head>AN ACCOUNT OF The Duke's Bagnio, AND OF <hi>The Duke's Mineral Bath:</hi> AND THE NEW SPAW OF MINERAL DRINKING WATERS.</head>
+            <p>NEar the Weſt-end of <hi>Long-Acre,</hi> on the Left-hand going to St. <hi>Martins-lane,</hi> adjoyning to the High White Houſe that's remarkable by reaſon of the <hi>Dutch</hi> Bricks that appear in its Front, where theſe Words are written over the Door, in large Golden Letters, <hi>WITHIN THIS PLACE IS THE D<g ref="char:V">Ʋ</g>KE'S BAGNIO AND BATH;</hi> is lately erected that Noble Structure the <hi>D<g ref="char:V">Ʋ</g>KE'S BAGNIO:</hi> And on the other Side of the Court-yard, there's a conveni<g ref="char:EOLhyphen"/>ent Building, in which the <hi>D<g ref="char:V">Ʋ</g>KE'S MINERAL BATH</hi> is made; near which, in the ſame Yard, is fix'd a Conduit or Fountain, bearing the Name of the <hi>NEW SPAW:</hi>
+            </p>
+            <p>The <hi>BAGNIO</hi> is for Luſtre and Beauty, according to the Aſſertion of al Travel<g ref="char:EOLhyphen"/>lers that have ſeen it, the fineſt in <hi>Europe,</hi> if not in the World. 'Tis of an Oval Fi<g ref="char:EOLhyphen"/>gure, covered with a large <hi>Cupola,</hi> which is ſupported by eight Cylindrical Columns on Pillars. 'Tis paved with Black and White Marble, and its Wals are cover'd with White Gally-tyles. It has convenient Rooms for Degrees of Heat, Seats in the Wals, and a Marble Table in the middle. Belonging to it are all neceſſary Accommodations; <hi>viz.</hi> A large Dreſſing-room, with ſeveral Boxes, Scales and Weights, Ciſterns for Waſhing in, Beds, Linen, and Servants of al ſorts.</p>
+            <p>The <hi>BATH</hi> is a large Ciſtern, holding about Twelve Tun of Water. 'Tis built with <hi>Taris</hi> and <hi>Paris</hi> Plaiſter, covered with White Gally-tyles: There are Steps down into it, and Seats in the Wal, as in the Baths at <hi>Bathe.</hi> Over it hang two Iron Swings, for Weak and Timorous Perſons to hold by, and to ſtretch the Body upon. The Wa<g ref="char:EOLhyphen"/>ter in it is impregnated with ſeveral Mineral Principles, which render it ſo ſtrong, that ſome Gentlemen can float upon it without ſtirring. It hath a Current of freſh Water into it, and a Pipe to carry it off as faſt as it comes in. 'Tis kept to a moderate Degree of Heat, ſuch as wil provoke moderate Sweat: 'Tis frequently emptied and cleanſed; and any Perſon may have it freſh that pleaſeth. Belonging to it are Rooms for Dreſſing and Undreſſing, with Beds, Gowns, Linen, Servants, <hi>&amp;c.</hi> Six or Eight Perſons may Bathe in it at once.</p>
+            <p>The <hi>NEW SPAW</hi> is a Mineral Water, pure, pleaſant, and wholeſom, prepared by Art: For the convenience of retaining which, there is a large Stone Fountain or Con<g ref="char:EOLhyphen"/>duit in the Yard, with an Iron Door; round about it are tal Palliſadoes, <hi>&amp;c.</hi>
+            </p>
+            <pb facs="tcp:151498:2" rendition="simple:additions"/>
+            <p> The <hi>BAGNIO, BATH,</hi> and <hi>SPAW</hi> being thus briefly deſcribed, 'twil be neceſſary to mention ſomething of their Uſe and Vertues.</p>
+            <p>The Uſe of <hi>BAGNIOS</hi> is ſo well known in ſeveral Parts of the World, that they are almoſt as much frequented as their Churches. 'Twould be tedious to relate, how many Diſtempers, and what Inconveniencies are thereby prevented, amongſt the Inhabi<g ref="char:EOLhyphen"/>tants of thoſe Countries; Experience daily ſhews it, and Reaſon evidently confirms it. 'Twould be impertinent here to Philoſophiſe, and tel you how <hi>Perſpiration</hi> and <hi>Friction</hi> being improved, exceedingly promote Health, and prevent Diſtempers: we only tel the Vulgar, It's certainly ſo; let their Experience diſprove us, and we'l beg their Par<g ref="char:EOLhyphen"/>don for our Confidence. For, this we certainly declare, from what we know, both from the Dictates of Reaſon, and the Infallibility of daily Experience, That wel-tem<g ref="char:EOLhyphen"/>pered <hi>Bagnios</hi> (as this really is) are of extraordinary Uſe, not only in preventing ſeveral Maladies, and in preſerving in the Body a good Conſtitution; but likewiſe in curing Colds, Rheumatiſms, Pains, Surfeits gotten by immoderate Eating, Drinking, or Mo<g ref="char:EOLhyphen"/>tion: They refreſh the Body after a weariſom Journey; they render a Man brisk and vigorous; his Joynts are made more nimble, his Limbs more ſupple: In fine, No one thing can tend more to the promoting of Health, than the frequent Uſe of <hi>Bagnios.</hi>
+            </p>
+            <p>No leſs likewiſe may the Uſe of <hi>MINERAL BATHS</hi> be commended. What plea<g ref="char:EOLhyphen"/>ſure do the Inhabitants of moſt Countries but <hi>Britain</hi> take in Bathing? For Pleaſure Nothing can ſurpaſs it; for Health and Profit Bathing is not inconſiderable. How plea<g ref="char:EOLhyphen"/>ſant is it to float upon a Water where one cannot ſink? to feel ones Skin and Pores penetrated by the wholeſome Mineral Particles that glide about in, and fill the inter<g ref="char:EOLhyphen"/>ſperſed Cavities of thoſe Waters? In the Blood there is hereby excited a more Noble Ferment; the Limbs are ſtrengthned, and the Nerves fortified; the Skin whitened, and a more pleaſant Air created in the Face, as hath been taken notice of in ſome Ladies; an hungry Appetite, and a good Digeſtion made. This <hi>Bath</hi> is of admirable Uſe in the <hi>Palſie, Numbneſs, Convulſions, Cramps:</hi> It gives ſpeedy Eaſe in Pains of the <hi>Gout;</hi> 'tis uſeful in the <hi>Scurvie</hi> and <hi>Dropſie;</hi> its removes the Cauſes of <hi>Barrenneſs,</hi> and other In<g ref="char:EOLhyphen"/>diſpoſitions peculiar to Women: It's good for Groſs and Corpulent Perſons, to eaſe them of that Burthen which they often complain of. Tis a certain Remedy for the <hi>Rickets</hi> in Children. In fine, 'Twas the Opinion of an Eminent Fellow of the <hi>College,</hi> who about Forty Years ago was about making Public <hi>Baths</hi> in <hi>London, That if the <g ref="char:V">Ʋ</g>ſe of Baths was well known, and if convenient</hi> Baths <hi>were made for all Perſons to Bathe in that had Occaſion, 'twould ſave above a thouſand Lives in a Year in this City.</hi> This he aſſerts in his <hi>Appeal to the College of Phyſicians concerning Baths.</hi> I ſhall not mention how many Learned and Ingenious Authors have wrote concerning the Extraordinary Benefits of <hi>Bathing.</hi>
+            </p>
+            <p>The <hi>SPAW-WATER</hi> is a <hi>Diuretic-Water;</hi> it works with ſome Bodies by Stool, but for moſt part by Urine. It dilutes the Blood, diſſolves thoſe Salts that are fixt upon the Nerves: It is very ſucceſsfully drank in the <hi>Scurvie, Yellow Jaundice, Stone</hi> and <hi>Strangury, Melancholy</hi> and <hi>Affects of the Spleen,</hi> great <hi>Surfeits, Heats, and Hectics, an ill Habit of Body, loſs of Appetite, Preternatural Vomitings, Pains in the Head and Stomach, Thirſt and Bitterneſs in the Mouth, Obſtructions of all ſorts, Sharpneſs of <g ref="char:V">Ʋ</g>rine, Difficulty of making Water, <g ref="char:V">Ʋ</g>lcers in the Reins and Bladder, Tumours of the Hemorrhoids,</hi> or <hi>the Piles, Cholicks, Bloody Flux, Megrim, Giddineſs, Bleedings, Affects of the Womb, &amp;c.</hi> In fine, Theſe Waters anſwer the Intentions of <hi>Tunbridge</hi>-Waters, but are far more refined and pure, being ſeparated from all thoſe groſs and impure Parts which abound in other Waters. The ordinary Doſe is Two Quarts, ſometimes Three.</p>
+            <p>Thus we have given a ſhort Account of theſe Three Uſeful <hi>Contrivances,</hi> which are deſign'd for <hi>Public Good,</hi> and have mentioned their <hi>Chief Virtues;</hi> all which, and ſome more, have already been experienced by their Uſe: A further Account, with Diſcourſes on the Manner of their Working theſe Effects, are at large diſcovered in a ſmall Trea<g ref="char:EOLhyphen"/>tiſe, written by Dr. <hi>Haworth,</hi> entituled, <hi>A Deſcription of the Duke's Bagnio and Bath, &amp;c.</hi> Sold by <hi>Samuel Smith</hi> at the <hi>Princes Arms</hi> in St. <hi>Paul's Church-yard.</hi>
+            </p>
+            <p>The Price of the <hi>Bagnio</hi> is 5 <hi>s.</hi> 6 <hi>d.</hi> And the ſame Price for the <hi>Bath.</hi> The Waters are 6 <hi>d.</hi> the Quart.</p>
+            <p>
+               <hi>Tueſdays</hi> and <hi>Frydays</hi> are the Days of Reception for Women, the other Days for Men, both in the <hi>Bagnio</hi> and <hi>Bath.</hi> The Waters are delivered every Morning, to al ſorts of People.</p>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
